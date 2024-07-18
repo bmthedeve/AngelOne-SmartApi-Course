@@ -1,4 +1,4 @@
-- Create a file **key.txt** with the following details in the same order<br>?
+- Create a file **key.txt** with the following details in the same order<br>
   *api key* <br>
   *PIN* <br>
   *username*<br>
